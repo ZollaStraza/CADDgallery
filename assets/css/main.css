@@ -1668,3 +1668,11 @@ input, select, textarea {
 	font-size: 2em;
 	color: #ffffff;
 }
+.carousel_nav {
+	width: 100%;
+	padding: 20px 0;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: red;
+}	
